@@ -5,9 +5,3 @@
 라인 4
 진짜 뭔가 복잡하네
 참..
-
-reset을 위한 dummy text1
-
-reset을 위한 dummy text2
-
-reset을 위한 dummy text3
